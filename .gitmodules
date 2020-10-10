@@ -1,0 +1,4 @@
+[submodule "libs/MIDIVisualizer"]
+	path = libs/MIDIVisualizer
+	url = https://github.com/pi-kei/MIDIVisualizer.git
+	branch = live-mode
